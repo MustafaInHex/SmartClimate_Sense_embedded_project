@@ -1,5 +1,5 @@
 # SmartClimate_Sense_embedded_project
-# ATmega32 Temperature Measurement System
+
 
 # Description
 An embedded C project for the ATmega32 microcontroller designed to measure and display both positive and negative temperatures using LM35 temprature sensor. 
