@@ -3,7 +3,7 @@
 
 
 
-## 📋 Description
+## Description
 An advanced embedded C project for the ATmega32 microcontroller designed to measure, process, and display both positive and negative temperatures. This system bridges the analog physical world with digital processing to provide accurate environmental monitoring.
 
 ## ️ Component Usage & Technical Implementation
