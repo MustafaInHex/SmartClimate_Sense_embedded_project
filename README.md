@@ -29,7 +29,7 @@ An advanced embedded C project for the ATmega32 microcontroller designed to meas
 *   **Role:** Used to design the schematic, simulate the microcontroller's behavior, and test the firmware logic in a virtual environment before deploying to physical hardware.
 
 
-## 📁 Project Structure
+##  Project Structure
 *   `/Src` - Contains all the main C source code files (main logic, ADC driver, Display driver).
 *   `/Inc` - Contains all the C header files for modular code organization.
 *   `/Proteus` - Contains the Proteus simulation design files and schematics.
